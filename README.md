@@ -1,4 +1,4 @@
-# MECANICA-DE-SOLIDOS-2026-2
+# MECANICA DE SOLIDOS
 
 - **PROFESOR:** Franklin Andrés Lizarazo Muñoz (flizarazo@unal.edu.co)
 - **SEMANAS**: 16
